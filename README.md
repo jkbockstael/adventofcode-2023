@@ -13,7 +13,7 @@ So what? If you choose to use these solutions to cheat then feel free to, there'
 These programs read from standard input and write on standard output:
 
 ```console
-$ node day01_part1.js < day01-input
+$ node day01.js < day01-input
 5
 ```
 
